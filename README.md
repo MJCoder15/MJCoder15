@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MJCoder15
-- 👀 I’m interested in open source and web develope-ment
+- 👀 I’m interested in open source and web development
 - 🌱 I’m currently learning Django.
 - 💞️ I’m looking to collaborate on React,Express,Django,MongoDB related works. 
 - 📫 To reach me:-- my email:-@ansarimazhar7353@gmail.com

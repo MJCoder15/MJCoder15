@@ -43,3 +43,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/mazhar-ansari-852713218/">
   <img src="https://th.bing.com/th/id/OIP.IfuhJTGsN34WQqAZIdufvQHaHa?w=165&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="LinkedIn" width="50" height='50' />
 </a>
+
+## Github stats
+
+![Mazhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=MJCoder15&show_icons=true&bg_color=00000000&theme=tokyonight)

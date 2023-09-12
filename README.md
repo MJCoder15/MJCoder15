@@ -29,8 +29,6 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://th.bing.com/th/id/OIP.7DfPlLIngzN5xxUvcc4tUgHaCO?w=325&h=104&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="MONGODB" width="150" height='70' />
 
-<img src="https://th.bing.com/th/id/OIP.9iJlCCmSu78r8sLGcB8__wHaCx?w=289&h=131&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="DJANGO" width="150" height='70' />
-
 <img src="https://th.bing.com/th/id/OIP.R1Bi3fNDyYjLsXdg9OqoIAHaEo?w=316&h=197&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="GIT" width="150" height='70' />
 </p>
 

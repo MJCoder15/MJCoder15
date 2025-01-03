@@ -4,7 +4,7 @@
 MJCoder15/MJCoder15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Hi there, I'm MJCoder15! 👋
+# Hi there, I'm Mazhar! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, and learning new technologies. Here's a little bit about me:
 
@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - **Frontend:** React, Redux, Next.js
 - **Backend:** Node.js, Express, Chi, MongoDB, PostgreSQL
 
-## My social links🔗:
+## My Social Links🔗:
 
 <a href="https://twitter.com/MazharCodes_15">
   <img src="https://th.bing.com/th/id/OIP.P3GJZi8Z-DGPx1JS3u5yOgHaGl?w=205&h=182&c=7&r=0&o=5&dpr=1.4&pid=1.7" alt="Twitter" width="50" height='50' />
